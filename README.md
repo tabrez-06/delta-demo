@@ -1,2 +1,3 @@
 # delta-demo
-This is a Demo for Git & Github 
+This is a Demo for Git & Github.
+and we will use git for version control.
